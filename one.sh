@@ -1,2 +1,1 @@
-echo "komunikat"
-
+echo $USER
